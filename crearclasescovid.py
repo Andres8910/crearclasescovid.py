@@ -21,3 +21,6 @@ class Incidente:
         self.NFallecidos = NFallecidos
 
 
+MiPais = Pais('Mexico','México',1000,5000)
+print(MiPais.NombreING)
+
