@@ -1,2 +1,2 @@
-from crearclasescovid import main
+from colecciones import main
 main()
